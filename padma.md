@@ -13,4 +13,4 @@ Ganges to refer to the river up to its confluence with the Jamuna
 (Brahmaputra), and the downstream after the confluence as the Padma. 
 The Padma is also sometimes wrongly referred to as the Ganges. The 
 river between Aricha and Sureshwar (Chandpur) is therefore best called
-Padma.
+Padma. 1st change by asheka
