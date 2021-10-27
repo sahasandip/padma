@@ -15,7 +15,7 @@ The Padma is also sometimes wrongly referred to as the Ganges. The
 river between Aricha and Sureshwar (Chandpur) is therefore best called
 Padma.
 
-[Link] (https://en.wikipedia.org/wiki/Padma_River)
+[Link](https://en.wikipedia.org/wiki/Padma_River)
 
 *General Information*
 
